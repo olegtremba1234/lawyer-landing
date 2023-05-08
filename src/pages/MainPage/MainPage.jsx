@@ -5,15 +5,11 @@ import FeaturesAdvice from "../../components/Features copy/Features"
 import Features from "../../components/Features/Features"
 import Footer from "../../components/Footer/Footer"
 import Header from "../../components/Header/Header"
-import NavigationMenu from "../../components/NavigationMenu/NavigationMenu"
 
 const MainPage = () => {
     return (<section>
         <header>
             <Header />
-            <nav>
-                <NavigationMenu />
-            </nav>
         </header>
         <main>
             <div>
