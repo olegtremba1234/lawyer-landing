@@ -12,21 +12,21 @@ const MainPage = () => {
             <Header />
         </header>
         <main>
-            <div>
+            <section style={{ paddingLeft: 42, paddingRight: 42 }}>
                 <Features />
-            </div>
-            <div>
+            </section>
+            <section>
                 <FeaturesAdvice />
-            </div>
-            <div>
+            </section>
+            <section>
                 <About />
-            </div>
-            <div>
+            </section>
+            <section>
                 <Clients />
-            </div>
-            <div>
+            </section>
+            <section>
                 <Contacts />
-            </div>
+            </section>
         </main>
         <footer>
             <Footer />
