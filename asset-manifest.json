@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lawyer-landing/static/css/main.c4975809.css",
+    "main.js": "/lawyer-landing/static/js/main.b5e0bc8d.js",
+    "static/js/787.e7d941e6.chunk.js": "/lawyer-landing/static/js/787.e7d941e6.chunk.js",
+    "static/media/cover.jpg": "/lawyer-landing/static/media/cover.aaadb3dbd2055e24e377.jpg",
+    "static/media/agent-mobile.png": "/lawyer-landing/static/media/agent-mobile.cfe77b21d0d932c7bf5f.png",
+    "index.html": "/lawyer-landing/index.html",
+    "main.c4975809.css.map": "/lawyer-landing/static/css/main.c4975809.css.map",
+    "main.b5e0bc8d.js.map": "/lawyer-landing/static/js/main.b5e0bc8d.js.map",
+    "787.e7d941e6.chunk.js.map": "/lawyer-landing/static/js/787.e7d941e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4975809.css",
+    "static/js/main.b5e0bc8d.js"
+  ]
+}
