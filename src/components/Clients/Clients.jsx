@@ -1,3 +1,6 @@
+import * as React from 'react';
+import InputSubscription from '../NewslaterSubscription/NewslaterSubscription';
+
 import style from "./Clients.module.css"
 
 import HooliImg from "../../Images/icons/fa-brands_hooli.svg"
@@ -40,7 +43,9 @@ const Clients = () => {
                                 Subscribe For Latest
                                 Newsletter
                             </h3>
-                            <div className={style.subscribe_input_group}></div>
+                            <div className={style.subscribe_input_group}>
+                                <InputSubscription />
+                            </div>
                         </div>
                     </div>
                 </div>

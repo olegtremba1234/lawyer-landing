@@ -48,7 +48,7 @@
   padding: 30px 0px;
 }
 
-.subscribe_flex-row {
+.subscribe_flex_row {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -73,4 +73,37 @@
 
   width: 253px;
   height: 64px;
+}
+
+.email_input {
+  position: relative;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 28px;
+  /* identical to box height, or 200% */
+
+  letter-spacing: 0.2px;
+
+  color: #737373;
+
+  background: #f9f9f9;
+  border: 1px solid #e6e6e6;
+  border-radius: 5px;
+
+  width: 337px;
+  height: 58px;
+}
+
+.subscribe_input_btn {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  background: #d0a144;
+  border: 1px solid #e6e6e6;
+  border-radius: 0px 5px 5px 0px;
+  width: 117px;
+  height: 58px;
 }
