@@ -1,7 +1,7 @@
 import About from "../../components/About/About"
 import Clients from "../../components/Clients/Clients"
 import Contacts from "../../components/Contacts/Contacts"
-import FeaturesAdvice from "../../components/Features copy/Features"
+import PracticeFeatures from "../../components/PracticeFeatures/PracticeFeatures"
 import Features from "../../components/Features/Features"
 import Footer from "../../components/Footer/Footer"
 import Header from "../../components/Header/Header"
@@ -15,8 +15,8 @@ const MainPage = () => {
             <section style={{ paddingLeft: 42, paddingRight: 42 }}>
                 <Features />
             </section>
-            <section>
-                <FeaturesAdvice />
+            <section style={{ background: "#F3F3F3" }}>
+                <PracticeFeatures />
             </section>
             <section>
                 <About />
