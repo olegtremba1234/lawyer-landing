@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/lawyer-landing/static/css/main.c2b53d90.css",
-    "main.js": "/lawyer-landing/static/js/main.3d4fa1a3.js",
+    "main.css": "/lawyer-landing/static/css/main.dc685cf4.css",
+    "main.js": "/lawyer-landing/static/js/main.1d17af21.js",
     "static/js/787.e7d941e6.chunk.js": "/lawyer-landing/static/js/787.e7d941e6.chunk.js",
     "static/media/cover.jpg": "/lawyer-landing/static/media/cover.aaadb3dbd2055e24e377.jpg",
     "static/media/player-img.png": "/lawyer-landing/static/media/player-img.b7b17ecb4bb5f834c7f8.png",
@@ -17,18 +17,21 @@
     "static/media/note-icon.svg": "/lawyer-landing/static/media/note-icon.8d3555d0203eb3159fc4dd08fe4747e5.svg",
     "static/media/fa-brands_hooli.svg": "/lawyer-landing/static/media/fa-brands_hooli.ee9e1765e86a7b4513c2115e0369bf8c.svg",
     "static/media/fa-brands_stripe.svg": "/lawyer-landing/static/media/fa-brands_stripe.6d47dd82825be133db47bcee669d656a.svg",
+    "static/media/icn contacts phone.svg": "/lawyer-landing/static/media/icn contacts phone.b5165801c7a87ab80f88a00383363bac.svg",
     "static/media/fa-brands_reddit-alien.svg": "/lawyer-landing/static/media/fa-brands_reddit-alien.9ad41deee0f7abd6ad88ebc3a8dbfd2e.svg",
     "static/media/icn about speed.svg": "/lawyer-landing/static/media/icn about speed.fe5ccef5ba9b03ae638a20f2ca922b9b.svg",
     "static/media/fa-brands_lyft.svg": "/lawyer-landing/static/media/fa-brands_lyft.b093875d59552a83bca6946cbcf19a17.svg",
     "static/media/fa-brands_pied-piper-hat.svg": "/lawyer-landing/static/media/fa-brands_pied-piper-hat.8b2994d8d39dc102a6e1a106a78b04be.svg",
+    "static/media/icn contacts arrow.svg": "/lawyer-landing/static/media/icn contacts arrow.29e83e71018063b77f9a695e426329ee.svg",
+    "static/media/icn contacts point.svg": "/lawyer-landing/static/media/icn contacts point.22af5567fae14444a54d69db90b73e2f.svg",
     "index.html": "/lawyer-landing/index.html",
     "static/media/icn play .icn-sm.svg": "/lawyer-landing/static/media/icn play .icn-sm.7662bfc67ff34780c66931825ff1c891.svg",
-    "main.c2b53d90.css.map": "/lawyer-landing/static/css/main.c2b53d90.css.map",
-    "main.3d4fa1a3.js.map": "/lawyer-landing/static/js/main.3d4fa1a3.js.map",
+    "main.dc685cf4.css.map": "/lawyer-landing/static/css/main.dc685cf4.css.map",
+    "main.1d17af21.js.map": "/lawyer-landing/static/js/main.1d17af21.js.map",
     "787.e7d941e6.chunk.js.map": "/lawyer-landing/static/js/787.e7d941e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2b53d90.css",
-    "static/js/main.3d4fa1a3.js"
+    "static/css/main.dc685cf4.css",
+    "static/js/main.1d17af21.js"
   ]
 }
