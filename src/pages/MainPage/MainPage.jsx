@@ -18,9 +18,7 @@ const MainPage = () => {
             <Clients />
             <Contacts />
         </main>
-        <footer>
-            <Footer />
-        </footer>
+        <Footer />
     </section>)
 }
 
