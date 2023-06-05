@@ -162,7 +162,7 @@ const Footer = () => {
                                     </li>
                                     <li className={style.links_list_item_wrap}>
                                         <img src={PointIcon} alt="Point icon" width={24} height={30} />
-                                        <a href="https://goo.gl/maps/goCXWP3FswhphNao7?coh=178573&entry=tt" className={style.links_list_item}>
+                                        <a href="https://goo.gl/maps/goCXWP3FswhphNao7?coh=178573&entry=tt" target="_blank" rel="noopener noreferrer" className={style.links_list_item}>
                                             4517 Washington Ave.
                                         </a>
                                     </li>
@@ -184,7 +184,8 @@ const Footer = () => {
                 <div className={style.rights_row}>
                     <div className={style.rights_title_container}>
                         <h6 className={style.rights_title}>
-                            Made With Love By Figmaland
+                            Made With Love By Figmaland <br />
+                            And of course by Oleg Tremba <br />
                             All Right Reserved
                         </h6>
                     </div>
