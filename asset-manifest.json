@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8de9c0a9.css",
-    "main.js": "/static/js/main.264903c3.js",
+    "main.css": "/static/css/main.fca86bc1.css",
+    "main.js": "/static/js/main.2f02feff.js",
     "static/js/787.e7d941e6.chunk.js": "/static/js/787.e7d941e6.chunk.js",
     "static/media/cover.jpg": "/static/media/cover.aaadb3dbd2055e24e377.jpg",
     "static/media/player-img.png": "/static/media/player-img.b7b17ecb4bb5f834c7f8.png",
@@ -10,11 +10,11 @@
     "static/media/practice1.png": "/static/media/practice1.edebe58804c5e2a867d2.png",
     "static/media/picture2.png": "/static/media/picture2.57b81b9123182c5641eb.png",
     "static/media/picture4.png": "/static/media/picture4.f1d6f8629300ca8d35ff.png",
-    "static/media/icn settings .icn-lg.svg": "/static/media/icn settings .icn-lg.1979ce32fd9d90d0d0d848403ce4ea0c.svg",
+    "static/media/law-icon.svg": "/static/media/law-icon.62a9aa8fb4c58cd20d3e8abdb39c1ee2.svg",
     "static/media/icn about mans.svg": "/static/media/icn about mans.75bca708448a5fa1f230249494f20342.svg",
-    "static/media/hammer-icon.svg": "/static/media/hammer-icon.455690c69571e785c6f38a242482044b.svg",
+    "static/media/hammer-icon.svg": "/static/media/hammer-icon.51a5c9b00e6c758acf6838d2066aefba.svg",
     "static/media/fa-brands_aws.svg": "/static/media/fa-brands_aws.68364b87f1963f3c3fdf036fa5164c3c.svg",
-    "static/media/note-icon.svg": "/static/media/note-icon.8d3555d0203eb3159fc4dd08fe4747e5.svg",
+    "static/media/note-icon.svg": "/static/media/note-icon.452b674743866df8db88afc8567130a7.svg",
     "static/media/fa-brands_hooli.svg": "/static/media/fa-brands_hooli.ee9e1765e86a7b4513c2115e0369bf8c.svg",
     "static/media/ant-design_instagram-outlined.svg": "/static/media/ant-design_instagram-outlined.bb64308480c3a68f3d73b342c31dcd2f.svg",
     "static/media/fa-brands_stripe.svg": "/static/media/fa-brands_stripe.6d47dd82825be133db47bcee669d656a.svg",
@@ -35,12 +35,12 @@
     "static/media/ant-design_facebook-filled.svg": "/static/media/ant-design_facebook-filled.e06cf0d047b86f6493211db9d26fe663.svg",
     "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.b1030074716eeaa3dd08a7da2bcf25bf.svg",
     "static/media/icn play .icn-sm.svg": "/static/media/icn play .icn-sm.7662bfc67ff34780c66931825ff1c891.svg",
-    "main.8de9c0a9.css.map": "/static/css/main.8de9c0a9.css.map",
-    "main.264903c3.js.map": "/static/js/main.264903c3.js.map",
+    "main.fca86bc1.css.map": "/static/css/main.fca86bc1.css.map",
+    "main.2f02feff.js.map": "/static/js/main.2f02feff.js.map",
     "787.e7d941e6.chunk.js.map": "/static/js/787.e7d941e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8de9c0a9.css",
-    "static/js/main.264903c3.js"
+    "static/css/main.fca86bc1.css",
+    "static/js/main.2f02feff.js"
   ]
 }
