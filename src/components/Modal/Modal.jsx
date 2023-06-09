@@ -26,6 +26,7 @@ export default function ModalWindow() {
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
+                    backgroundColor: "rgba(42, 42, 42, 0.6)"
 
                 }}
             >
