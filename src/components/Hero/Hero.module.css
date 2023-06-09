@@ -1,3 +1,65 @@
+.btn {
+  margin-bottom: 20px;
+  min-width: 182px;
+  min-height: 48px;
+  border-radius: 37px;
+  background-color: transparent;
+  background: blur(5px);
+  border-color: #784f33;
+  color: #784f33;
+  border: 1px solid #784f33;
+  padding: 10px 36px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+  transition: all ease-in-out 0.3s;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #784f33;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.3);
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
+}
+
+.btn_m {
+  margin-bottom: 20px;
+  min-width: 155px;
+  min-height: 48px;
+  border-radius: 37px;
+  background-color: transparent;
+  background: blur(5px);
+  border-color: #784f33;
+  color: #784f33;
+  border: 1px solid #784f33;
+  padding: 10px 36px;
+  font-family: Open Sans;
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  cursor: pointer;
+  box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+  transition: all ease-in-out 0.3s;
+}
+
+.btn_m:hover {
+  color: #fff;
+  background-color: #784f33;
+  box-shadow: 0px 13px 19px rgba(0, 0, 0, 0.3);
+}
+
+.btn_m:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
+}
+
 .hero__container {
   margin-top: 84px;
 }

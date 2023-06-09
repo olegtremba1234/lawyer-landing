@@ -1,0 +1,18 @@
+.player_button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 34.8px 36.8px;
+
+  position: absolute;
+  width: 97.6px;
+  height: 98.4px;
+  left: calc(50% - 97.6px / 2 + 0.3px);
+  top: calc(50% - 98.4px / 2 + 0.2px);
+
+  background: #295c7a;
+  border-radius: 73.6px;
+  border-color: #295c7a;
+  /* border: none; */
+  cursor: pointer;
+}

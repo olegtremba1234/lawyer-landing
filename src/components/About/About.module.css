@@ -110,7 +110,13 @@
 
   background: #295c7a;
   border-radius: 73.6px;
-  border: none;
+  border-color: #295c7a;
+  /* border: none; */
+  cursor: pointer;
+}
+
+.player_button:hover {
+  background: #1f455c;
 }
 
 .media_items_container {

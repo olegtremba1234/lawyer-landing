@@ -1,6 +1,7 @@
 import style from "./About.module.css"
 
-import PlayIcon from "../../Images/icons/icn play .icn-sm.svg"
+import ModalWindow from "../Modal/Modal"
+
 import PeopleIcon from "../../Images/icons/icn about mans.svg"
 import SpeedIcon from "../../Images/icons/icn about speed.svg"
 
@@ -23,10 +24,9 @@ const About = () => {
                 </div>
                 <div className={style.media_container}>
                     <div className={style.player_container}>
+
                         <div className={style.test_img}>
-                            <button className={style.player_button}>
-                                <img src={PlayIcon} alt="play" />
-                            </button>
+                            <ModalWindow />
                         </div>
                     </div>
                 </div>

@@ -1,5 +1,6 @@
 import * as React from 'react';
-import Button from '@mui/material/Button';
+// import Button from '@mui/material/Button';
+// import ContainedButton from '../Button/ContainedButton';
 import style from "./Hero.module.css"
 
 import AgentMobileImg from "../../Images/agent-mobile.png"
@@ -14,10 +15,8 @@ const Hero = () => {
                 <h4 className={style.hero_text}>We know how large objects will act,
                     but things on a small scale.</h4>
                 <div className={style.hero__btn__container}>
-                    <Button variant="contained" sx={{ minWidth: "182px", minHeight: "48px", background: "#784F33", borderRadius: "37px", fontFamily: "Open Sans", fontSize: "14px", fontWeight: 700, padding: "10px 36px", marginBottom: "20px", }}>Get Quote Now</Button>
-                    <Button variant="outlined" sx={{ minWidth: "155px", minHeight: "48px", borderRadius: "37px", borderColor: "#784F33", color: "#784F33", border: "1px solid", padding: "10px 36px", fontFamily: "Open Sans", fontSize: "14px", fontWeight: 700, }}>Learn More</Button>
-                    {/* <button type='button'>Get Quote Now</button>
-                    <button type='button'>Learn More</button> */}
+                    <button className={style.btn} >Get Quote Now</button>
+                    <button className={style.btn_m} >Learn More</button>
                 </div>
             </div>
             <div className={style.hero__image_container}>
