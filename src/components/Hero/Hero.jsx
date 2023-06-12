@@ -1,6 +1,4 @@
 import * as React from 'react';
-// import Button from '@mui/material/Button';
-// import ContainedButton from '../Button/ContainedButton';
 import style from "./Hero.module.css"
 
 import AgentMobileImg from "../../Images/agent-mobile.png"

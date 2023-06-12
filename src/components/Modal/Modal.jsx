@@ -45,20 +45,13 @@ export default function ModalWindow() {
                         right: 'calc(-1/6 * var(--IconButton-size))',
                     }} />
 
-                    <iframe
-                        width="100%"
+                    <iframe width="100%"
                         height="315"
-                        src="https://www.youtube.com/embed/OvGX6Bn83kQ"
+                        src="https://www.youtube.com/embed/gUxos0WDAEE"
                         title="YouTube video player"
-                        frameBorder="0"
-                        allow="accelerometer; 
-    autoplay;
-    clipboard-write;
-    encrypted-media;
-    gyroscope;
-    picture-in-picture;
-    web-share"
-                        allowFullScreen>
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                        allowfullscreen>
                     </iframe>
                 </Sheet>
             </Modal>
