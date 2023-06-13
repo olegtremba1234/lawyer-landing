@@ -13,6 +13,11 @@
   background: #295c7a;
   border-radius: 73.6px;
   border-color: #295c7a;
-  /* border: none; */
   cursor: pointer;
+  transition: all 0.3s;
+}
+
+.player_button:hover {
+  background: #25546f;
+  transform: scale(1.05);
 }

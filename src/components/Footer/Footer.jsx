@@ -206,7 +206,7 @@ const Footer = () => {
                             <a href="/">
                                 <img src={TwitterIcon} alt="Twitter icon" width={24} height={24} />
                             </a>
-                            <a href="/">
+                            <a href="https://www.youtube.com/channel/UC5L7tzyCB57uNZ_BuiMPEgg" target="_blank" rel="noopener noreferrer">
                                 <img src={YouTubeIcon} alt="YouTube icon" width={24} height={24} />
                             </a>
                         </div>
