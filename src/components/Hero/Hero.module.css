@@ -1,3 +1,37 @@
+.hero__container {
+  margin-top: 84px;
+}
+
+@media screen and (min-width: 768px) {
+  .hero__container {
+    max-width: 1050px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    margin: 0 auto;
+  }
+}
+
+.hero_container_row {
+  /* width: 100%; */
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 0px;
+  gap: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .hero_title_container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 35px;
+  }
+}
+
 .btn {
   margin-bottom: 20px;
   min-width: 182px;
@@ -60,10 +94,6 @@
   box-shadow: 0 0 0 3px lightskyblue;
 }
 
-.hero__container {
-  margin-top: 84px;
-}
-
 .hero__title {
   font-family: "Martel";
   font-style: normal;
@@ -71,6 +101,17 @@
   font-size: 40px;
   line-height: 50px;
   text-align: center;
+  color: #252b42;
+}
+
+@media screen and (min-width: 768px) {
+  .hero__title {
+    text-align: start;
+    font-weight: 900;
+    font-size: 58px;
+    line-height: 65px;
+    letter-spacing: 0.2px;
+  }
 }
 
 .hero_text {
@@ -84,11 +125,29 @@
   margin-top: 35px;
 }
 
+@media screen and (min-width: 768px) {
+  .hero_text {
+    text-align: start;
+    margin-top: 0;
+  }
+}
+
 .hero__btn__container {
   display: flex;
   flex-direction: column;
   align-items: center;
   margin-top: 35px;
+}
+
+@media screen and (min-width: 768px) {
+  .hero__btn__container {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    margin-top: 0;
+  }
 }
 
 .btn_quote {
@@ -102,4 +161,20 @@
   display: flex;
   justify-content: center;
   margin-top: 118px;
+}
+
+@media screen and (min-width: 768px) {
+  .hero__image_container {
+    margin-top: 0;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1278px) {
+  .hero_image {
+    height: 481px;
+  }
+}
+.hero_image {
+  height: 581px;
 }

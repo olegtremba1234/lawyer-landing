@@ -4,6 +4,17 @@
   align-items: center;
 }
 
+@media screen and (min-width: 768px) {
+  .navigation__menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    padding-right: 39px;
+    gap: 21px;
+  }
+}
+
 .navigation__item {
   color: rgba(115, 115, 115, 1);
   font-family: "Open Sans", sans-serif;
@@ -12,4 +23,18 @@
   line-height: 45px;
   letter-spacing: 0.2px;
   padding-bottom: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .navigation__item {
+    font-family: "Open Sans";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    /* text-align: center; */
+    letter-spacing: 0.2px;
+    color: #737373;
+    padding: 0;
+  }
 }

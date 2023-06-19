@@ -21,3 +21,8 @@
   background: #25546f;
   transform: scale(1.05);
 }
+
+.player_button:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px lightskyblue;
+}

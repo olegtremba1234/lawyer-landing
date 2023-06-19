@@ -7,19 +7,19 @@ import Footer from "../../components/Footer/Footer"
 import Header from "../../components/Header/Header"
 
 const MainPage = () => {
-    return (<section>
-        <header>
+    return (
+        <>
             <Header />
-        </header>
-        <main>
-            <Features />
-            <PracticeFeatures />
-            <About />
-            <Clients />
-            <Contacts />
-        </main>
-        <Footer />
-    </section>)
+            <main>
+                <Features />
+                <PracticeFeatures />
+                <About />
+                <Clients />
+                <Contacts />
+            </main>
+            <Footer />
+        </>
+    )
 }
 
 export default MainPage
