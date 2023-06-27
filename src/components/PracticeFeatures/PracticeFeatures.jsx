@@ -7,7 +7,7 @@ import Picture4 from "../../Images/picture4.png"
 
 const PracticeFeatures = () => {
     return (
-        <section style={{ background: "#F3F3F3" }}>
+        <section className={style.Practice_section}>
             <div className={style.container}>
                 <div className={style.title_container}>
                     <div className={style.row}>

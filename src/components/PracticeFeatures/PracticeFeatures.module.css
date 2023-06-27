@@ -1,12 +1,24 @@
+.Practice_section {
+  display: flex;
+  justify-content: center;
+  background: #f3f3f3;
+  padding: 0px 42px;
+}
+
 .container {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 30px;
-  padding-left: 42px;
-  padding-right: 42px;
   padding-top: 53px;
   padding-bottom: 192px;
+}
+
+@media screen and (min-width: 768px) {
+  .container {
+    width: 1050px;
+    padding: 80px 0px;
+  }
 }
 
 .title_container {
@@ -14,6 +26,13 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 45px 0px;
+}
+
+@media screen and (min-width: 768px) {
+  .title_container {
+    width: 100%;
+    align-items: center;
+  }
 }
 
 .row {
@@ -26,6 +45,14 @@
   height: 190px;
 }
 
+@media screen and (min-width: 768px) {
+  .row {
+    align-items: center;
+    width: 100%;
+    height: auto;
+  }
+}
+
 .main_content {
   display: flex;
   flex-direction: column;
@@ -35,6 +62,13 @@
 
   width: 330px;
   height: 190px;
+}
+
+@media screen and (min-width: 768px) {
+  .main_content {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .title {
@@ -49,6 +83,13 @@
   text-align: center;
   letter-spacing: 0.2px;
   color: #252b42;
+}
+
+@media screen and (min-width: 768px) {
+  .title {
+    width: 100%;
+    height: auto;
+  }
 }
 
 .text {
@@ -67,6 +108,14 @@
   color: #737373;
 }
 
+@media screen and (min-width: 768px) {
+  .text {
+    width: 100%;
+    max-width: 431px;
+    height: auto;
+  }
+}
+
 .practices_container {
   display: flex;
   flex-direction: column;
@@ -81,6 +130,12 @@
   align-items: flex-start;
   padding: 0px;
   gap: 30px;
+}
+
+@media screen and (min-width: 768px) {
+  .practices_row {
+    flex-direction: row;
+  }
 }
 
 .row_card {
