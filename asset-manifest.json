@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ce1efd6.css",
-    "main.js": "/static/js/main.6ef654bf.js",
+    "main.css": "/static/css/main.42044dec.css",
+    "main.js": "/static/js/main.dd6e6a5a.js",
     "static/js/787.e7d941e6.chunk.js": "/static/js/787.e7d941e6.chunk.js",
     "static/media/cover-desktop.png": "/static/media/cover-desktop.ea215457a239f6a93bdc.png",
     "static/media/agent desktop.png": "/static/media/agent desktop.6980ddd2b0f5ccdff1a2.png",
@@ -37,12 +37,12 @@
     "static/media/ant-design_facebook-filled.svg": "/static/media/ant-design_facebook-filled.e06cf0d047b86f6493211db9d26fe663.svg",
     "static/media/linkedin-icon.svg": "/static/media/linkedin-icon.b1030074716eeaa3dd08a7da2bcf25bf.svg",
     "static/media/icn play .icn-sm.svg": "/static/media/icn play .icn-sm.7662bfc67ff34780c66931825ff1c891.svg",
-    "main.7ce1efd6.css.map": "/static/css/main.7ce1efd6.css.map",
-    "main.6ef654bf.js.map": "/static/js/main.6ef654bf.js.map",
+    "main.42044dec.css.map": "/static/css/main.42044dec.css.map",
+    "main.dd6e6a5a.js.map": "/static/js/main.dd6e6a5a.js.map",
     "787.e7d941e6.chunk.js.map": "/static/js/787.e7d941e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ce1efd6.css",
-    "static/js/main.6ef654bf.js"
+    "static/css/main.42044dec.css",
+    "static/js/main.dd6e6a5a.js"
   ]
 }
